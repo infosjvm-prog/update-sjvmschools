@@ -1,18 +1,34 @@
 {
-  "SBK-401": {
-    "FA1": {"marks": 88, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-401_FA1.pdf"},
-    "FA2": {"marks": 90, "grade": "A+", "link": "https://update.sjvmschools.org/results/SBK-401_FA2.pdf"},
-    "FA3": {"marks": 85, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-401_FA3.pdf"},
-    "FA4": {"marks": 87, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-401_FA4.pdf"},
-    "SA1": {"marks": 92, "grade": "A+", "link": "https://update.sjvmschools.org/results/SBK-401_SA1.pdf"},
-    "SA2": {"marks": 95, "grade": "A+", "link": "https://update.sjvmschools.org/results/SBK-401_SA2.pdf"}
-  },
-  "SBK-101": {
-    "FA1": {"marks": 78, "grade": "B+", "link": "https://update.sjvmschools.org/results/SBK-101_FA1.pdf"},
-    "FA2": {"marks": 82, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-101_FA2.pdf"},
-    "FA3": {"marks": 80, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-101_FA3.pdf"},
-    "FA4": {"marks": 83, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-101_FA4.pdf"},
-    "SA1": {"marks": 88, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-101_SA1.pdf"},
-    "SA2": {"marks": 90, "grade": "A+", "link": "https://update.sjvmschools.org/results/SBK-101_SA2.pdf"}
-  }
+  "Bandikodigenahalli": [
+    {
+      "title": "Formative Assessment 1",
+      "class": "Class 1",
+      "marks": "18/20",
+      "date": "2025-08-30",
+      "link": "https://update.sjvmschools.org/results/bandikodigenahalli/class1_FA1.pdf"
+    },
+    {
+      "title": "Summative Assessment 1",
+      "class": "Class 1",
+      "marks": "42/50",
+      "date": "2025-09-05",
+      "link": "https://update.sjvmschools.org/results/bandikodigenahalli/class1_SA1.pdf"
+    }
+  ],
+  "Atturu Layout": [
+    {
+      "title": "Formative Assessment 1",
+      "class": "Class 1",
+      "marks": "19/20",
+      "date": "2025-08-30",
+      "link": "https://update.sjvmschools.org/results/atturu/class1_FA1.pdf"
+    },
+    {
+      "title": "Summative Assessment 1",
+      "class": "Class 1",
+      "marks": "40/50",
+      "date": "2025-09-05",
+      "link": "https://update.sjvmschools.org/results/atturu/class1_SA1.pdf"
+    }
+  ]
 }
