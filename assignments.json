@@ -1,19 +1,33 @@
 {
-  "assignments": [
+  "Bandikodigenahalli": [
     {
       "title": "English Worksheet 1",
       "description": "Pages 2–5, FA1",
       "class": "Class 1",
-      "branch": "Bandikodigenahalli",
-      "link": "https://update.sjvmschools.org/assignments/class1_FA1_english.pdf",
+      "link": "https://update.sjvmschools.org/assignments/bandikodigenahalli/class1_FA1_english.pdf",
       "date": "2025-09-13"
     },
     {
       "title": "Math Worksheet 5",
       "description": "Questions 1–10, FA2",
       "class": "Class 4",
-      "branch": "Bandikodigenahalli",
-      "link": "https://update.sjvmschools.org/assignments/class4_FA2_math.pdf",
+      "link": "https://update.sjvmschools.org/assignments/bandikodigenahalli/class4_FA2_math.pdf",
+      "date": "2025-09-14"
+    }
+  ],
+  "Atturu Layout": [
+    {
+      "title": "Science Worksheet 1",
+      "description": "Pages 1–4, FA1",
+      "class": "Class 1",
+      "link": "https://update.sjvmschools.org/assignments/atturu/class1_FA1_science.pdf",
+      "date": "2025-09-13"
+    },
+    {
+      "title": "Math Worksheet 3",
+      "description": "Questions 1–15, FA2",
+      "class": "Class 5",
+      "link": "https://update.sjvmschools.org/assignments/atturu/class5_FA2_math.pdf",
       "date": "2025-09-14"
     }
   ]
