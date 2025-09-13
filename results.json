@@ -1,0 +1,18 @@
+{
+  "SBK-401": {
+    "FA1": {"marks": 88, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-401_FA1.pdf"},
+    "FA2": {"marks": 90, "grade": "A+", "link": "https://update.sjvmschools.org/results/SBK-401_FA2.pdf"},
+    "FA3": {"marks": 85, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-401_FA3.pdf"},
+    "FA4": {"marks": 87, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-401_FA4.pdf"},
+    "SA1": {"marks": 92, "grade": "A+", "link": "https://update.sjvmschools.org/results/SBK-401_SA1.pdf"},
+    "SA2": {"marks": 95, "grade": "A+", "link": "https://update.sjvmschools.org/results/SBK-401_SA2.pdf"}
+  },
+  "SBK-101": {
+    "FA1": {"marks": 78, "grade": "B+", "link": "https://update.sjvmschools.org/results/SBK-101_FA1.pdf"},
+    "FA2": {"marks": 82, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-101_FA2.pdf"},
+    "FA3": {"marks": 80, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-101_FA3.pdf"},
+    "FA4": {"marks": 83, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-101_FA4.pdf"},
+    "SA1": {"marks": 88, "grade": "A", "link": "https://update.sjvmschools.org/results/SBK-101_SA1.pdf"},
+    "SA2": {"marks": 90, "grade": "A+", "link": "https://update.sjvmschools.org/results/SBK-101_SA2.pdf"}
+  }
+}
